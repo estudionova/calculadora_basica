@@ -3,7 +3,7 @@
 
 Calculadora Desenvolvida no curso javascript da hcode na udemy.com
 
-projeto basico para aplicação de conhecimentos basicos dos comandos iniciais em javascript
+projeto basico para aplicação de conhecimentos dos comandos iniciais em javascript
 
 primeiro projeto, nivel basico.
 
